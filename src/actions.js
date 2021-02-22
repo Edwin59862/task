@@ -66,4 +66,3 @@ export const deleteDocument = async(collection,id) =>{
     }
     return result
 }
-
